@@ -18,6 +18,8 @@
 
 ## 👋 About Me
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
+
 - 🎓 **BCA Student** at **St. Berchmans College**, currently serving as **Head of Tech — DOCXCREW**
 - 🚀 **Co-founder** at **Athlogix**, a software & web engineering agency delivering end-to-end client infrastructure
 - 🔬 **Data Science Intern** at **IIIT Kottayam**, working on applied ML and data-driven systems
@@ -29,6 +31,8 @@
 <br/>
 
 ## 🛠️ Tech Stack & Tools
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -65,6 +69,8 @@
 <br/>
 
 ## 🚀 Featured Projects
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -113,7 +119,25 @@
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mlvnmn/mlvnmn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mlvnmn/mlvnmn/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mlvnmn/mlvnmn/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
 
 <div align="center">
 
@@ -133,6 +157,8 @@
 <br/>
 
 ## 🤝 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=12&section=header" width="100%"/>
 
 <div align="center">
 
